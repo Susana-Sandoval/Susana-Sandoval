@@ -11,5 +11,7 @@ For some time now I began a stage of labor reconversion.
 Tester QA junior | Jira | Postman | SQL | beginner Java POO and developer Web FrontEnd HTML 5, CSS, JavaScript| Agile | SCRUM|
 <div>
  src= "https://www.ambient-it.net/wp-content/uploads/2022/04/Logo-Jira-200x175-2.png.webp"
+
+<img src="https://www.ambient-it.net/wp-content/uploads/2022/04/Logo-Jira-200x175-2.png.webp"> 
 </div>
 
