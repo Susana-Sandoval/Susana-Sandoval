@@ -16,6 +16,9 @@ Tester QA junior | Jira | Postman | SQL | beginner Java POO and developer Web Fr
 <img src="https://telum.umc.edu.dz/pluginfile.php/36285/course/overviewfiles/logopoojava.png">
 <img src="https://static.packt-cdn.com/products/9781838648121/graphics/assets/9a5e3a54-0f0e-42a2-ab09-3ab748173cfe.png">
 <img src="https://leccionamexico.b-cdn.net/wp-content/uploads/2021/05/agile.jpg">
+### Herramientas de testing
+  <img src="https://www.testmonitor.com/hs-fs/hubfs/2022-06-EB-TestMonitor-TestMonitorinAgileTesting.pdf.png?width=310&name=2022-06-EB-TestMonitor-TestMonitorinAgileTesting.pdf.png">
+  <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*PCR4EmXnNbSrvl8q.png">
   
 </div>
 
