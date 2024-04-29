@@ -1,11 +1,12 @@
 ### Hi there (Hello world!) 👋
 
-I'm Susan. I'live in Bs As.
-I'm QA. I have been working in various projects.
-I'm events planner in university.
-For some time now I began a stage of labor reconversion.
+Mi nombre es Susana, pero me dicen Susan. Soy de Argentina, el país del mate y del dulce de leche. 
+Yo vivo en la ciudad de BS. As. y nos dicen porteños.
 
+Actualmente curso testing Automation en el programa <Codo> a </Codo>
+Previamente he realizado varios cursos de testing manual y programación.
 
+<img src="https://www.lugaresysabores.com/webfiles/lugaresysabores/novedades/11575/1_1000x1000.jpg>
 
 ### Tech
 Tester QA junior | Jira | Postman | SQL | beginner Java POO and developer Web FrontEnd HTML 5, CSS, JavaScript| Agile | SCRUM|
