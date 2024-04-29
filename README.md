@@ -6,7 +6,7 @@ Yo vivo en la ciudad de BS. As. y nos dicen porteños.
 Actualmente curso testing Automation en el programa <Codo> a </Codo>
 Previamente he realizado varios cursos de testing manual y programación.
 
-<img src="https://www.lugaresysabores.com/webfiles/lugaresysabores/novedades/11575/1_1000x1000.jpg>
+<img src="https://www.lugaresysabores.com/webfiles/lugaresysabores/novedades/11575/1_1000x1000.jpg">
 
 ### Tech
 Tester QA junior | Jira | Postman | SQL | beginner Java POO and developer Web FrontEnd HTML 5, CSS, JavaScript| Agile | SCRUM|
