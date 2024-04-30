@@ -4,10 +4,10 @@ Soy de Argentina, tierra de Messi, mate y dulce de leche.
 Vivo en la ciudad de BS. As.
 Actualmente estoy cursando testing Automation, en el programa <Codo/Codo>
 Previamente he realizado varios cursos de testing manual y programación, en:
-<div align="right">  
+<div align="left">  
   <img width="12" /> 
 <img src="https://media.licdn.com/dms/image/C4D0BAQHwZ6SCIdS1_g/company-logo_200_200/0/1630570397109/eidosfundacion_logo?e=1722470400&v=beta&t=N9HB7yzGxxU5L9Vp1i9nSJv2DXyHE-glVlBVc2vPXDE.jpg"/>
-
+<div/>
 
 <img src="https://media.ahora.com.ar/p/54f8c8b839bec8d267a4a94c09f68e3c/adjuntos/224/imagenes/001/201/0001201016/790x0/smart/messi-mate.jpg">
 
