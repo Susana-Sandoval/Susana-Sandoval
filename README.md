@@ -31,8 +31,7 @@ Tester QA junior | Jira | Postman | SQL | beginner Java POO and developer Web Fr
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img src="https://camo.githubusercontent.com/444253087e0f63d6892fc1969e1a95183bc53573074e61aa67fb1e712fdd2c1b/68747470733a2f2f6d6d732e627573696e657373776972652e636f6d2f6d656469612f32303233303332323030353237342f656e2f3736313635302f322f706f73746d616e2d6c6f676f2d766572742d323031382e6a7067"/>
- <img src="https://telum.umc.edu.dz/pluginfile.php/36285/course/overviewfiles/logopoojava.png">
-<img src="https://static.packt-cdn.com/products/9781838648121/graphics/assets/9a5e3a54-0f0e-42a2-ab09-3ab748173cfe.png"> 
+
 </div>
 
 ###
