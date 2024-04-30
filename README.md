@@ -15,8 +15,7 @@ Previamente realicé varios cursos de testing manual y programación, en:
 <img src="https://www.afele.org/ccsimg/dcs/img_tools/2023-07-20/59e0bc90-1172-4bab-8d1c-32839abe9e64.webp"<img src="image.png" width="160" height="90"/>
 
 ##Herramientas utilizadas para gestión de proyectos:
-
-<img src="https://camo.githubusercontent.com/1edc3763f9e81832893ec65311796dab13dc397ca08bc7dd3fed9f2655ab0d50/68747470733a2f2f7777772e616d6269656e742d69742e6e65742f77702d636f6e74656e742f75706c6f6164732f323032322f30342f4c6f676f2d4a6972612d323030783137352d322e706e672e77656270"<img src="image.png" width="120" height="100"/> 
+<imgsrc="https://camo.githubusercontent.com/1edc3763f9e81832893ec65311796dab13dc397ca08bc7dd3fed9f2655ab0d50/68747470733a2f2f7777772e616d6269656e742d69742e6e65742f77702d636f6e74656e742f75706c6f6164732f323032322f30342f4c6f676f2d4a6972612d323030783137352d322e706e672e77656270.webb"<img src="image.png" width="120" height="100"/> 
 <img src="https://i.pcmag.com/imagery/reviews/04C2m2ye5UfXyb5x5WWIsZ4-19.fit_scale.size_1028x578.v1625759628.png"<img src="image.png" width="130" height="100"/>
 
 ##
