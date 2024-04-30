@@ -8,7 +8,7 @@ Previamente he realizado varios cursos de testing manual y programación, en:
 <div align="left">  
   <img width="12" /> 
   
-<img src="https://scontent-eze1-1.xx.fbcdn.net/v/t39.30808-6/294526450_461737445954910_8145489372408121959_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=MP8obL3nQaQQ7kNvgEMT7yN&_nc_ht=scontent-eze1-1.xx&oh=00_AfB_r6II20Ec4n3SaCCHctiUim7tVjZpiBTCrJhtitEhVA&oe=663705AC.jpg "/>
+<img src="https://scontent-eze1-1.xx.fbcdn.net/v/t39.30808-6/294526450_461737445954910_8145489372408121959_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=MP8obL3nQaQQ7kNvgEMT7yN&_nc_ht=scontent-eze1-1.xx&oh=00_AfB_r6II20Ec4n3SaCCHctiUim7tVjZpiBTCrJhtitEhVA&oe=663705AC.jpg"/>
 
 <div/>
 
