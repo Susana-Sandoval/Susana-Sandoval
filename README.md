@@ -16,6 +16,8 @@ Previamente realicé varios cursos de testing manual y programación, en:
 
 ##Herramientas utilizadas para gestión de proyectos:
 
+<img src="https://github.com/Susana-Sandoval/Susana-Sandoval/assets/131830576/b80cd21f-968c-47d5-86fa-a6dbdd8576ea.png"/>
+  <img width="12" />
 <img src="https://camo.githubusercontent.com/1edc3763f9e81832893ec65311796dab13dc397ca08bc7dd3fed9f2655ab0d50/68747470733a2f2f7777772e616d6269656e742d69742e6e65742f77702d636f6e74656e742f75706c6f6164732f323032322f30342f4c6f676f2d4a6972612d323030783137352d322e706e672e77656270"<img src="image.png" width="120" height="100"> <img src="https://i.pcmag.com/imagery/reviews/04C2m2ye5UfXyb5x5WWIsZ4-19.fit_scale.size_1028x578.v1625759628.png"<img src="image.png" width="130" height="100">
 
 
@@ -34,21 +36,9 @@ Previamente realicé varios cursos de testing manual y programación, en:
 
 
 
-### Hi there (Hello world!) 👋
-Mi nombre es Susana, pero me dicen Susan. 
-Actualmente estoy cursando testing Automation, en el programa <Codo/Codo> 
-Previamente he realizado varios cursos de testing manual y programación, en:
+#
 
-<div align="left"/>  
-<img width="12"/> 
-  
-<img src="https://cdn.filestackcontent.com/no_metadata/output=format:webp/resize=w:180,h:128,fit:max/quality=value:70/compress/cache=expiry:max/OBSxoqZaTQetNCbgZJLT"/>
-<div align="center"/>  
-<img width="12"/> 
-<img src="https://buscalaweb.com.ar/wp-content/uploads/2023/07/Opiniones-sobre-Educacionit-1024x538.jpeg"/>
-<img src="https://www.entrenossocialinfo.com/wp-content/uploads/2023/01/Argentinap2.png"/>
-<img src="https://alaya-capital.com/wp-content/uploads/2022/04/Copia-de-Egg-Imagotipo-PNG-200x200.png"/>
-<img src="https://www.afele.org/ccsimg/dcs/img_tools/2023-07-20/59e0bc90-1172-4bab-8d1c-32839abe9e64.webp"/>
+
 
 <div/>
 
