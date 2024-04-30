@@ -4,7 +4,7 @@ Mi nombre es Susana, pero me dicen Susan.
 Soy QA Tester manual.
 Actualmente estoy cursando testing Automation, en el programa:
 
-<img src="https://inscripcionesagencia.bue.edu.ar/codoacodo/img/graficos/cacmas.png" width="110" height="60">
+<img src="https://inscripcionesagencia.bue.edu.ar/codoacodo/img/graficos/cacmas.png" width="110" height="60"/>
 
 Previamente realicé varios cursos de testing manual y programación, en:
 
