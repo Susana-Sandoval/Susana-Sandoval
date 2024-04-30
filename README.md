@@ -1,7 +1,5 @@
 ### Hi there (Hello world!) 👋
 Mi nombre es Susana, pero me dicen Susan. 
-Soy de Argentina, tierra de Messi, mate y dulce de leche. 
-Vivo en la ciudad de BS. As.
 Actualmente estoy cursando testing Automation, en el programa <Codo/Codo> 
 Previamente he realizado varios cursos de testing manual y programación, en:
 
@@ -18,7 +16,9 @@ Previamente he realizado varios cursos de testing manual y programación, en:
 
 <div/>
 
-
+Si, soy Argentina, tierra de Messi, mate y dulce de leche. 
+Vivo en la ciudad de BS. As.
+Además,  soy melómana y amo viajar. A donde sea 
 <img src="https://media.ahora.com.ar/p/54f8c8b839bec8d267a4a94c09f68e3c/adjuntos/224/imagenes/001/201/0001201016/790x0/smart/messi-mate.jpg"/>
 
 ### Tech
