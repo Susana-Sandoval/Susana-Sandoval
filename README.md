@@ -2,10 +2,9 @@
 
 Mi nombre es Susana, pero me dicen Susan. 
 Soy de Argentina, tierra de Messi, mate y dulce de leche. 
-Vivo en la ciudad de BS. As. y me encantan todas las regiones de mi país.
-Me gusta conocer todos los rincones de mi país y su cultura.
-Me encanta trabajar con personas del resto de Latinoamerica, donde puedo conocer otras culturas, intereses e intercambiar conocimientos.
-
+Vivo en la ciudad de BS. As. 
+Me encanta viajar y conocer todos los rincones de mi país.
+Estudié ceremonial y eventos, porque me importan las relaciones humanas, desde la cultura, sus conocimientos e intereses.
 Actualmente estoy cursando testing Automation, gracias al programa <Codo/Codo>
 Previamente he realizado varios cursos de testing manual y programación.
 
