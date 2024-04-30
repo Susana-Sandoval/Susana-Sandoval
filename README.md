@@ -2,13 +2,15 @@
 Mi nombre es Susana, pero me dicen Susan. 
 Soy de Argentina, tierra de Messi, mate y dulce de leche. 
 Vivo en la ciudad de BS. As.
-Actualmente estoy cursando testing Automation, en el programa <Codo/Codo>
+Actualmente estoy cursando testing Automation, en el programa <Codo/Codo> <img src="https://scontent-eze1-1.xx.fbcdn.net/v/t39.30808-6/269789151_3001043743442329_8998746516655381292_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=ymh514CfN84Q7kNvgHPdLFA&_nc_ht=scontent-eze1-1.xx&oh=00_AfD1TnY036D0pbn5QSdQK6yriJcqf6EhlTUltWb69ZUZYg&oe=66373577"/>
 Previamente he realizado varios cursos de testing manual y programación, en:
 
 <div align="left"/>  
 <img width="12"/> 
   
 <img src="https://cdn.filestackcontent.com/no_metadata/output=format:webp/resize=w:180,h:128,fit:max/quality=value:70/compress/cache=expiry:max/OBSxoqZaTQetNCbgZJLT"/>
+<div align="center"/>  
+<img width="12"/> 
 <img src="https://buscalaweb.com.ar/wp-content/uploads/2023/07/Opiniones-sobre-Educacionit-1024x538.jpeg"/>
 <img src="https://www.entrenossocialinfo.com/wp-content/uploads/2023/01/Argentinap2.png"/>
 <img src="https://alaya-capital.com/wp-content/uploads/2022/04/Copia-de-Egg-Imagotipo-PNG-200x200.png"/>
