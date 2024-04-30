@@ -28,7 +28,7 @@ Tester QA junior | Jira | Postman | SQL | beginner Java POO and developer Web Fr
 <div align="left"/>  
   <img width="12"/> 
 <img src="https://github.com/Susana-Sandoval/Susana-Sandoval/assets/131830576/b80cd21f-968c-47d5-86fa-a6dbdd8576ea.png"/>
-
+<img src="https://cdn.filestackcontent.com/no_metadata/output=format:webp/resize=w:180,h:128,fit:max/quality=value:70/compress/cache=expiry:max/OBSxoqZaTQetNCbgZJLT"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
