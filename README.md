@@ -9,6 +9,10 @@ Previamente he realizado varios cursos de testing manual y programación, en:
 <img width="12"/> 
   
 <img src="https://cdn.filestackcontent.com/no_metadata/output=format:webp/resize=w:180,h:128,fit:max/quality=value:70/compress/cache=expiry:max/OBSxoqZaTQetNCbgZJLT"/>
+<img src="https://buscalaweb.com.ar/wp-content/uploads/2023/07/Opiniones-sobre-Educacionit-1024x538.jpeg"/>
+<img src="https://www.entrenossocialinfo.com/wp-content/uploads/2023/01/Argentinap2.png"/>
+<img src="https://alaya-capital.com/wp-content/uploads/2022/04/Copia-de-Egg-Imagotipo-PNG-200x200.png"/>
+<img src="https://www.afele.org/ccsimg/dcs/img_tools/2023-07-20/59e0bc90-1172-4bab-8d1c-32839abe9e64.webp"/>
 
 <div/>
 
