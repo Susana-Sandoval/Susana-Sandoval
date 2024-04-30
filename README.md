@@ -10,9 +10,10 @@ Previamente he realizado varios cursos de testing manual y programación, en:
   
 <img src="https://cdn.filestackcontent.com/no_metadata/output=format:webp/resize=w:180,h:128,fit:max/quality=value:70/compress/cache=expiry:max/OBSxoqZaTQetNCbgZJLT.jpg">
 
+<div/>
 
 
-<img src="https://media.ahora.com.ar/p/54f8c8b839bec8d267a4a94c09f68e3c/adjuntos/224/imagenes/001/201/0001201016/790x0/smart/messi-mate.jpg">
+<img src="https://media.ahora.com.ar/p/54f8c8b839bec8d267a4a94c09f68e3c/adjuntos/224/imagenes/001/201/0001201016/790x0/smart/messi-mate.jpg"/>
 
 ### Tech
 Tester QA junior | Jira | Postman | SQL | beginner Java POO and developer Web FrontEnd HTML 5, CSS, JavaScript| Agile | SCRUM|
