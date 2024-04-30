@@ -7,7 +7,7 @@ Me gusta conocer todos los rincones de mi país y su cultura.
 Me encanta trabajar con personas del resto de Latinoamerica, donde puedo conocer otras culturas, intereses e intercambiar conocimientos.
 
 Actualmente estoy cursando testing Automation, gracias al programa <Codo/Codo>
-Previamente he realizado varios cursos de testing manual y programación, los cuales despertaron en mi ganas de seguir aprendiendo.
+Previamente he realizado varios cursos de testing manual y programación.
 
 <img src="https://media.ahora.com.ar/p/54f8c8b839bec8d267a4a94c09f68e3c/adjuntos/224/imagenes/001/201/0001201016/790x0/smart/messi-mate.jpg">
 
@@ -32,7 +32,8 @@ Tester QA junior | Jira | Postman | SQL | beginner Java POO and developer Web Fr
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img src="https://camo.githubusercontent.com/444253087e0f63d6892fc1969e1a95183bc53573074e61aa67fb1e712fdd2c1b/68747470733a2f2f6d6d732e627573696e657373776972652e636f6d2f6d656469612f32303233303332323030353237342f656e2f3736313635302f322f706f73746d616e2d6c6f676f2d766572742d323031382e6a7067"/>
-  
+ <img src="https://telum.umc.edu.dz/pluginfile.php/36285/course/overviewfiles/logopoojava.png">
+<img src="https://static.packt-cdn.com/products/9781838648121/graphics/assets/9a5e3a54-0f0e-42a2-ab09-3ab748173cfe.png"> 
 </div>
 
 ###
