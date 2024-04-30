@@ -12,14 +12,10 @@ Previamente he realizado varios cursos de testing manual y programación.
 ### Tech
 Tester QA junior | Jira | Postman | SQL | beginner Java POO and developer Web FrontEnd HTML 5, CSS, JavaScript| Agile | SCRUM|
 <div>
-<h2 align="left">Hola! Mi nombre es Franco, soy de Argentina estudiante de Licenciatura en Informática en la UNLP.</h2>
+
 
 
 </div>
-
-###
-
-<img align="left" height="199" src="https://images.unsplash.com/photo-1634741011278-9dc2f5b6fc0b?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"  />
 
 ###
 
