@@ -8,7 +8,7 @@ Previamente he realizado varios cursos de testing manual y programación, en:
 <div align="left"/>  
 <img width="12"/> 
   
-<img src="https://cdn.filestackcontent.com/no_metadata/output=format:webp/resize=w:180,h:128,fit:max/quality=value:70/compress/cache=expiry:max/OBSxoqZaTQetNCbgZJLT.jpg"/>
+<img src="https://cdn.filestackcontent.com/no_metadata/output=format:webp/resize=w:180,h:128,fit:max/quality=value:70/compress/cache=expiry:max/OBSxoqZaTQetNCbgZJLT.jpg">
 
 <div/>
 
