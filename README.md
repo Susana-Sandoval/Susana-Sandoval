@@ -6,10 +6,8 @@ Actualmente estoy cursando testing Automation, en el programa <Codo/Codo>
 Previamente he realizado varios cursos de testing manual y programación, en:
 <div align="left">  
   <img width="12" /> 
-
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.eidosglobal.org%2F&psig=AOvVaw3qnOBCjGWrrAkPQVmBVsFr&ust=1714590414452000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwjJqf2V0eqFAxXLA7kGHZetBqUQjRx6BAgAEBY.png"/>
   
-<img src="https://media.licdn.com/dms/image/C4D0BAQHwZ6SCIdS1_g/company-logo_200_200/0/1630570397109/eidosfundacion_logo?e=1722470400&v=beta&t=N9HB7yzGxxU5L9Vp1i9nSJv2DXyHE-glVlBVc2vPXDE.png"/>
+<img src=""/>
 <div/>
 
 <img src="https://media.ahora.com.ar/p/54f8c8b839bec8d267a4a94c09f68e3c/adjuntos/224/imagenes/001/201/0001201016/790x0/smart/messi-mate.jpg">
