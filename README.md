@@ -2,9 +2,7 @@
 
 Mi nombre es Susana, pero me dicen Susan. 
 Soy de Argentina, tierra de Messi, mate y dulce de leche. 
-Vivo en la ciudad de BS. As. 
-Me encanta viajar y conocer todos los rincones de mi país.
-Estudié ceremonial y eventos, porque me importan las relaciones humanas, desde la cultura, sus conocimientos e intereses.
+Vivo en la ciudad de BS. As.
 Actualmente estoy cursando testing Automation, gracias al programa <Codo/Codo>
 Previamente he realizado varios cursos de testing manual y programación.
 
@@ -21,6 +19,15 @@ Tester QA junior | Jira | Postman | SQL | beginner Java POO and developer Web Fr
 ###
 
 <div align="left">
+<img src=https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png width="50" height="50">
+   <img src=https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png width="50" height="50">
+   <img src=https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png width="50" height="50">
+   <img src=https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png width="50" height="50">
+   <img src=https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png width="50" height="50">
+   <img src=https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png width="50" height="50">
+   <img src=https://raw.githubusercontent.com/No-Country/c17-41-ft-java/main/selenium.jpg width="50" height="50">
+
+
  
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
