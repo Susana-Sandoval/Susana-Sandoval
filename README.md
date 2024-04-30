@@ -47,7 +47,8 @@ Vivo en la ciudad de BS.As.
 Además,  soy melómana y amo viajar. A donde sea 
 <img src="https://media.ahora.com.ar/p/54f8c8b839bec8d267a4a94c09f68e3c/adjuntos/224/imagenes/001/201/0001201016/790x0/smart/messi-mate.jpg"/>
 
-### Tech
+### Tech (Sepan disculpar)
+...Estamos trabajando para la copa...
 Tester QA junior | Jira | Postman | SQL | beginner Java POO and developer Web FrontEnd HTML 5, CSS, JavaScript| Agile | SCRUM|
 <div>
 
